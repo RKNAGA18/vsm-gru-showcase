@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const specs = [
   { metric: "Latency per frame", target: "< 1 ms", achieved: "0.85 ms", status: "Pass" },
